@@ -1,3 +1,5 @@
+# <center>第三方集成钉钉实现单点</center>
+
 钉钉的免登接口相较于微信来说比较复杂，并且分为h5应用和e应用两个版本，目前钉钉的api文档逐渐以e应用为主，e应用需要借助与钉钉官方提供的ide开发，两者之间的区别详见[https://open-doc.dingtalk.com/microapp/isv](https://open-doc.dingtalk.com/microapp/isv).
 
 该文档主要以h5微应用来介绍获取访问用户信息实现免登的方法.
